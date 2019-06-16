@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1548487856058.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "643136541",
+    "id" : "8EB355BB",
+    "lastKnownWriteTime" : 1548491237,
+    "last_content_update" : 1548491237954,
+    "path" : "D:/codes/Machine Learning A-Z Template Folder/Part 2 - Regression/Section 4 - Simple Linear Regression/simple_linear_regression.R",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "35,48",
+        "scrollLine" : "26"
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
